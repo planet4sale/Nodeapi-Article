@@ -1,0 +1,5 @@
+name = NodeAPI article
+core = 7.x
+files[] = nodeapi_article.test
+
+
